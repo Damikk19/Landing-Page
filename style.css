@@ -119,3 +119,8 @@ button {
 .background-three > p.quote-author {
     font-weight: bold;
 }
+
+.action {
+    background-color: #3882F6;
+    color: white;
+}

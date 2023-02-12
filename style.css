@@ -67,3 +67,13 @@ button {
     cursor: pointer;
     border-radius: 12px;
 }
+
+.image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 500px;
+    background-color: grey;
+    color: white;
+}

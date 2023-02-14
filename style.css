@@ -122,11 +122,16 @@ button {
 .background-three > p.quote {
     font-size: 36px;
     font-style: italic;
-    color: #1F2937
+    color: #1F2937;
+    padding: 100px 300px 0 300px;
 }
 
 .background-three > p.quote-author {
+    display: flex;
     font-weight: bold;
+    padding-bottom: 80px;
+    justify-content: end;
+    padding-right: 350px;
 }
 
 .action {
